@@ -1,14 +1,11 @@
-# Create WhatApp Chatbot💬 using ChatGPT, Flask, and EC2
+# Create ChatGPT WhatApp Chatbot💬 Flask, Twilio, Ngrok and AWS EC2
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                 
 [![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-360/)   
 
-## [Watch Tutorial for this project](https://youtu.be/Fej2wb4YHes)
-<img src="https://github.com/Spidy20/ChatGPT_Whatsapp_Bot/blob/master/yt_thumb.jpg">
-
 
 ## We have used:
-- Ngrok and Flask as a server.
+- Ngrok to host the Flask App.
 - Twilio as whatsapp agent.
 - ChatGPT API for generating response.
 - Flask App as API for Request/Response model.
@@ -40,14 +37,7 @@
     python3 BOT_API.py
   ```
 
-- For more explanation of this project see the tutorial on Machine Learning Hub YouTube channel.
 
 ## Screenshot of Chatbot
 
 <img src="https://github.com/Spidy20/ChatGPT_Whatsapp_Bot/blob/master/sc_1.jpg" width="270" height="500">
-
-
-## Just follow☝️ me and Star⭐ my repository 
-
-# [Buy me a Coffee☕](https://www.buymeacoffee.com/spidy20)
-## [Donate me on PayPal(It will inspire me to do more projects)](https://www.paypal.me/spidy1820)
